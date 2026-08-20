@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chunket.github.io/snippets-puy6k2/sitemap.xml
